@@ -1,0 +1,15 @@
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.csproj.AssemblyReference.cache
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.AssemblyInfoInputs.cache
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.AssemblyInfo.cs
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.csproj.CoreCompileInputs.cache
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/bin/Debug/net5.0/Hash_Data.deps.json
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/bin/Debug/net5.0/Hash_Data.runtimeconfig.json
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/bin/Debug/net5.0/Hash_Data.runtimeconfig.dev.json
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/bin/Debug/net5.0/Hash_Data.dll
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/bin/Debug/net5.0/ref/Hash_Data.dll
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/bin/Debug/net5.0/Hash_Data.pdb
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.dll
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/ref/Hash_Data.dll
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.pdb
+/Users/matthewchan/Downloads/github2/sample2/github2/HashData/Hash_Data/Hash_Data/obj/Debug/net5.0/Hash_Data.genruntimeconfig.cache

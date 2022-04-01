@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/matthewchan/Downloads/github2/sample2/Hashdata/Hash_Data/Hash_Data/Hash_Data.csproj": {}
+  },
+  "projects": {
+    "/Users/matthewchan/Downloads/github2/sample2/Hashdata/Hash_Data/Hash_Data/Hash_Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matthewchan/Downloads/github2/sample2/Hashdata/Hash_Data/Hash_Data/Hash_Data.csproj",
+        "projectName": "Hash_Data",
+        "projectPath": "/Users/matthewchan/Downloads/github2/sample2/Hashdata/Hash_Data/Hash_Data/Hash_Data.csproj",
+        "packagesPath": "/Users/matthewchan/.nuget/packages/",
+        "outputPath": "/Users/matthewchan/Downloads/github2/sample2/Hashdata/Hash_Data/Hash_Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matthewchan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
